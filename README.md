@@ -6,6 +6,6 @@ Autotest https://www.saucedemo.com with Python and Selenium
 Task: enter username and password and login
 
 for run test use
-''
+```
 python login.py
-''
+```
